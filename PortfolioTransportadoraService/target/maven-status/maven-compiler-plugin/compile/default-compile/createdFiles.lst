@@ -1,0 +1,8 @@
+dao\TransportadoraDAO.class
+entidade\RetornoRest.class
+dao\TransportadoraDAOImpl.class
+entidade\Transportadora.class
+util\JpaUtil.class
+entidade\RetornoTransportadoraRest.class
+dao\PerguntaDAOImpl.class
+servico\TransportadoraServico.class
